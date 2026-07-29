@@ -1,5 +1,5 @@
 
-# Advanced Radar Simulation System
+# StratosRadar — High-Fidelity Pulse-Doppler PPI Surveillance & Kinetic Tracking Simulation Engine
 
 A high-performance, real-time radar tracking simulation written in C++ using SFML 3. Designed to simulate a 10,000 km operational area with realistic target behaviors, movement physics, and a professional GUI interface.
 
